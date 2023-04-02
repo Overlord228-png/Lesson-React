@@ -1,0 +1,13 @@
+14/12/22 => start lesson React -> Lesson__01;
+15/12/22 => add react in Lesson_02;
+15/12/22 => add folder homework;
+27/12/22 => learning basic useHook, drawing by api -> Lesson__03;
+from 28/12/22 till 12/01/23 => 28/12/22 => Lesson__04 Routes,Route,BrowserRouter,NavLink;
+18/01/23 -> add homework/practic in lesson5, finish homework/practic in lesson4; 
+02/02/23 -> lesson6 axios/loading;
+07/02/23 => Lesson__07 seloct;
+08/02/23 => add homework in Lesson__07;
+09/02/23 => create practic in Lesson__07;
+09/02/23 => create Lesson__07/practic, add Lesson__08
+13/02/23 => create homework Lesson__07;
+21/03/23 -> new learning Redux in React
